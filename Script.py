@@ -281,7 +281,6 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     RESTART_TXT = """
 <b>{} Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code> v4.8 [ Sᴛᴀʙʟᴇ ]</code>
 </b>"""
